@@ -4,4 +4,7 @@ title: Interests
 permalink: /interests/
 ---
 
-More info coming soon!
+* Coding(of course)
+* Books   
+* Hiking
+* Cooking
