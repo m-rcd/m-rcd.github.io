@@ -8,13 +8,17 @@ permalink: /education/
   * Git and Github
   * Unix shell
   * Ruby
+  * Ruby on Rails
   * RSpec
+  * Capybara
   * TDD
   * Pair programming
   * Javascript
   * Jasmine
-  * Ruby on Rails
+  * Jest
+  * Enzyme
   * React
+  * React Native
   * HTML/CSS
   * Databases: Mongodb, postgresSQL
 
