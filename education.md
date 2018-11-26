@@ -7,18 +7,10 @@ permalink: /education/
  16 weeks full-time intensive coding bootcamp covering:
   * Git and Github
   * Unix shell
-  * Ruby
-  * Ruby on Rails
-  * RSpec
-  * Capybara
+  * Ruby, Ruby on Rails, Node.js, Javascript, React, React Native
+  * RSpec, Capybara, Jasmine, Jest, Enzyme
   * TDD
   * Pair programming
-  * Javascript
-  * Jasmine
-  * Jest
-  * Enzyme
-  * React
-  * React Native
   * HTML/CSS
   * Databases: Mongodb, postgresSQL
 
