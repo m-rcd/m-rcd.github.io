@@ -5,6 +5,6 @@ permalink: /interests/
 ---
 
 * Coding(of course)
-* Books   
+* Reading   
 * Hiking
 * Cooking
