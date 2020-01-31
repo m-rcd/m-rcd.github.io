@@ -3,8 +3,9 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-<h3> Smart Pension (Feb 2019 - Present)</h3>
-Junior Software Engineer
+<h3> Smart Pension </h3>
+Software Engineer (Jan 2020 - Present)
+Junior Software Engineer (Feb 2019 - Jan 2020)
 
 <h3> Hirehand (May 2018 - Aug 2018)</h3>
 Operational administrator
