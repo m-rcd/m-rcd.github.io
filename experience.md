@@ -4,7 +4,10 @@ title: Experience
 permalink: /experience/
 ---
 <h3> Smart Pension </h3>
-<p> Software Engineer (Jan 2020 - Present) </p>
+
+<p> Senior Software Engineer (Aug 2021 - Present) </p>
+
+<p> Software Engineer (Jan 2020 - Aug 2021) </p>
 
 <p> Junior Software Engineer (Feb 2019 - Jan 2020) </p>
 
