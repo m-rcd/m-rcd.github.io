@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Skills
 permalink: /skills/
@@ -16,7 +16,7 @@ permalink: /skills/
   Programming is not a solo activity and the most successful projects are built on a range of ideas and experiences. I always enjoy working with others and  recognise that everyone brings value to the table. I am able to articulate my ideas clearly and able to work at any speed to ensure my team are all on the same page. I am comfortable to lead with strong ideas and defer to and support my teammates with theirs.</p>
 
   <h3> Test driven development </h3>
-  <p> I may be biased, since this is the only way I have been taught, but TDD is by far my preferred way to program. Through the discipline of TDD I am confident that my code is clean, easy to read and, most importantly for me and my teammates, easy to maintain. I use TDD as part of my strategy for approaching and understanding a problem. </p> 
+  <p> I may be biased, since this is the only way I have been taught, but TDD is by far my preferred way to program. Through the discipline of TDD I am confident that my code is clean, easy to read and, most importantly for me and my teammates, easy to maintain. I use TDD as part of my strategy for approaching and understanding a problem. </p>
 
  <h3> Client management</h3>
   <p>In a previous role I occasionally had to handle clients who felt they had not received a satisfactory service. I was able to deal with problems swiftly and directly, usually over the phone with very little notice, and ensure that clients maintained their confidence in us for future transactions. Such problems often arose when personnel did not show up for roles, and it was my duty to find adequate replacement within a very tight timeframe.</p>
@@ -31,4 +31,4 @@ permalink: /skills/
  <h3>Additional skills:</h3>
   <p>Foreign Languages: French, Arabic</p>
 
-</div>
+</div> -->

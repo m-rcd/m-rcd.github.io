@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Education
 permalink: /education/
@@ -18,4 +18,4 @@ permalink: /education/
 MSc Drug Discovery & Pharma Management
 
 <h3>Lebanese American University, LAU (Sept 2009 - May 2015)</h3>
-BSc Pharmacy
+BSc Pharmacy -->
